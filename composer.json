@@ -14,5 +14,7 @@
         "psr-4": {
             "Treinaweb\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
